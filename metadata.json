@@ -1,0 +1,6 @@
+{
+  "name": "UPZ Kecamatan Lembang - Donasi Zakat & Transparansi",
+  "description": "Portal resmi Unit Pengumpul Zakat (UPZ) Kecamatan Lembang, Kab. Bandung Barat. Donasi zakat online, verifikasi pembayaran otomatis, laporan transparansi real-time, Bukti Setor Zakat (BSZ), notifikasi WA & Telegram, serta aplikasi PWA mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
